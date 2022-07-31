@@ -3,10 +3,10 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
-  cronet
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
+  grpc_cronet
 )
 
 set(PLUGIN_BUNDLED_LIBRARIES)

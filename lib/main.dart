@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:grpc_cronet/src/grpc_cronet.dart' as cronet;
 
 void main() {
   runApp(const MyApp());
